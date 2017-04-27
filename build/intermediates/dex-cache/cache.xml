@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_757ee849eb82c8d12baf7e4d6014292574d253fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d31d5acc4c5881baa1fb0760b27df39175d2e9f7">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_24a3aa245729ca26d1f51ecf9f1512b5fe9948cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_1921c06106bb28f326fb13de58f24213e520a23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_9c1a835cf3c10e4209c38765047c62eee80aff7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dandy83ten_win\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9cef038c8d15d3d1723b65b074292bac109ed671\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_ffc9c91f732f1c1ba256f9ec94ae4bf5fd3e3be6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_33956fecb2a9e153d2fbee1c8d96217b4d374af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5333c12f9c80980b720b2a44f4d9befb1f593ae1">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4032a77623d31bd278a4efae523c53790694394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_d8c41f35bd5623bc712f19e9c9da978481be934b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_d0c32ba4b32493f24a8d4061695218b66cba66d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_01ac0ee3e4ef0420961bdb0c97c3decf2ee57457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_b874ac972b0e5241346fbf79ad90871a88e330c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_8da0990ba685c27a9f238d4db931afef30291a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_32a7b44217944533f1918741843d1768685741f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\_sample\CoordinatorLayout_RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_90f37feb40305e0c9268fabcd7c65396e2ff5b2a\classes.dex" />
+    </item>
+
+</items>
